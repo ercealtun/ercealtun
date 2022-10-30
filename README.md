@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://media.giphy.com/media/JOrBpgP5CkzU4/giphy.gif" alt="animated" />
+</p>
+
 <h1 align="center">Hi, I'm Erce ALTUN 👋</h1>
 <h3 align="center">A fully-motivated junior simulation and game development engineer from Turkey who wants to contribute to the defense industry 🚀 </h3>
 
@@ -19,3 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ercealtun&show_icons=true&locale=en&layout=compact" alt="ercealtun" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ercealtun&show_icons=true&locale=en" alt="ercealtun" /></p>
+
