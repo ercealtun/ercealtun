@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Erce ALTUN 👋</h1>
-<h3 align="center">A fully-motivated junior simulation and game development engineer from Turkey who wants to contribute to the defense industry </h3>
+<h3 align="center">A fully-motivated junior simulation and game development engineer from Turkey who wants to contribute to the defense industry 🚀 </h3>
 
 - 💻 I’m a Senior Computer Engineering Student at Çankaya University.
 
