@@ -1,3 +1,4 @@
+<img width="460" height="300" src="[https://www.reddit.com/r/gaming/comments/66spf0/pound_it_little_dude_doom/](https://media4.giphy.com/media/JOrBpgP5CkzU4/giphy.gif?cid=790b7611af2f6b2fdb08fad7a591db4bfcacdf50bf44262d&rid=giphy.gif&ct=g)">
 <h1 align="center">Hi, I'm Erce ALTUN 👋</h1>
 <h3 align="center">A fully-motivated junior simulation and game development engineer from Turkey who wants to contribute to the defense industry 🚀 </h3>
 
