@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ercealtun&label=Profile%20views&color=0e75b6&style=flat" alt="ercealtun" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ercealtun" alt="ercealtun" /></a> </p>
+- 🕹 I’m currently learning **Unreal Engine 5 and advanced Unity**
 
-- 🌱 I’m currently learning **Unreal Engine 5 and advanced Unity**
-
-- 📫 How to reach me **ercealtn@gmail.com**
+- 📧 How to reach me **ercealtn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
