@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Erce ALTUN</h1>
+<h1 align="center">Hi, I'm Erce ALTUN 👋</h1>
 <h3 align="center">A fully-motivated junior simulation and game development engineer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ercealtun&label=Profile%20views&color=0e75b6&style=flat" alt="ercealtun" /> </p>
 
-- 🕹 I’m currently learning **Unreal Engine 5 and advanced Unity**
+- 💻 **I’m a Senior Computer Engineering Student at Çankaya University.**
+
+- 🕹 I’m currently learning **Unreal Engine 5 and advanced Unity.**
 
 - 📧 How to reach me **ercealtn@gmail.com**
 
