@@ -6,13 +6,11 @@
 
 <h3 align="center">A fully-motivated Junior Simulation and Game Development Engineer 🚀 </h3>
 
-<br>
-
 - 💻 I’m a Senior Computer Engineering Student at **Çankaya University**
 
 - 🕹 I’m currently learning and working on **Unreal Engine 5 and advanced Unity**
 
-- ✨ I'm also interested in **cyber security, mobile development, metaverse, and ITOps**
+- ✨ I'm also interested in **cyber security, mobile development, metaverse, and ITOps**, and keen to work in any field of computer engineering.
 
 - 📧 How to reach me **ercealtn@gmail.com**
 
