@@ -4,11 +4,11 @@
 
 <h1 align="center">Hi, I'm Erce ALTUN 👋</h1>
 
-<h3 align="center">A fully-motivated Junior Simulation and Game Development Engineer 🚀 </h3>
+<h3 align="center">A fully-motivated Junior Simulation & Game Development Engineer 🕹️ </h3>
 
 - 💻 I’m a Senior Computer Engineering Student at **Çankaya University**
 
-- 🕹 I’m currently learning and working on **Unreal Engine 5 and advanced Unity**
+- 👾 I’m currently learning and working on **Unreal Engine 5 and advanced Unity**
 
 - ✨ I'm also interested in **cyber security, mobile development, metaverse, and ITOps**
 
