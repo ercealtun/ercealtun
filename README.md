@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/JOrBpgP5CkzU4/giphy.gif" alt="animated" />
 </p>
 
-<h1 align="center">Hi, I'm Erce ALTUN 👋</h1>
+<h1 align="center">Hi, I'm Erce 👋</h1>
 
 <h3 align="center">A fully-motivated Junior Simulation & Game Development Engineer 🕹️ </h3>
 
