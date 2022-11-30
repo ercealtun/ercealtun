@@ -1,10 +1,10 @@
-<p align="center">
+<p align="left">
 <img src="https://media.giphy.com/media/JOrBpgP5CkzU4/giphy.gif" alt="animated" />
 </p>
 
-<h1 align="center">Hi, I'm Erce 👋</h1>
+<h1 align="left">Hi, I'm Erce 👋</h1>
 
-<h3 align="center">A fully-motivated Junior Simulation & Game Development Engineer 🕹️ </h3>
+<h3 align="left">A fully-motivated Junior Simulation & Game Development Engineer 🕹️ </h3>
 
 - 💻 I’m a Senior Computer Engineering Student at **Çankaya University**
 
