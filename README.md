@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi, I'm Erce 👋</h1>
 
-<h3 align="left">A fully-motivated Junior Simulation Engineer 🕹️ </h3>
+<h3 align="left">A fully-motivated Junior Simulation Developer 🕹️ </h3>
 
 - 💻 I’m a Senior Computer Engineering Student at **Çankaya University**
 
