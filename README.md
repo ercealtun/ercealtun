@@ -4,13 +4,13 @@
 
 <h1 align="left">Hi, I'm Erce 👋</h1>
 
-<h3 align="left">A fully-motivated Junior Developer 🕹️ </h3>
+<h3 align="left">A fully-motivated Junior Developer </h3>
 
 - 💻 I’m a Senior Computer Engineering Student at **Çankaya University**
 
 - 👾 I’m currently learning and working on **Unreal Engine 5 and advanced Unity**
 
-- ✨ I'm also interested in **cyber security, AI, assembly, mobile development, metaverse, and ITOps**
+- ✨ I'm also interested in **game development, cyber security, AI, assembly, mobile development, metaverse, and ITOps**
 
 - 📧 How to reach me **ercealtn@gmail.com**
 
