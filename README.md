@@ -10,7 +10,7 @@
 
 - 👾 I’m currently learning and working on **Unreal Engine 5 and advanced Unity**
 
-- ✨ I'm also interested in **cyber security, game development, AI, ML, assembly, mobile development, metaverse, and ITOps**
+- ✨ I'm also interested in **cyber security, simulation development, AI, ML, assembly, mobile development, metaverse, and ITOps**
 
 - 📧 How to reach me **ercealtn@gmail.com**
 
