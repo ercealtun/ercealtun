@@ -1,22 +1,23 @@
-<p align="left">
+<p align="center">
 <img src="https://media.giphy.com/media/JOrBpgP5CkzU4/giphy.gif" alt="animated" />
 </p>
 
-<h1 align="left">Hi, I'm Erce 👋</h1>
+<h1 align="center">Hi, I'm Erce 👋</h1>
 
-<h3 align="left">A fully-motivated Junior Developer </h3>
+<h3 align="center">Fully-motivated & greedy for learning Junior Developer </h3>
 
-- 💻 I’m a Senior Computer Engineering Student at **Çankaya University**
+<p align="center"> 💻 I’m a Senior Computer Engineering Student at <strong> Çankaya University </strong> </p>
 
-- 👾 I’m currently learning and working on **Unreal Engine 5 and advanced Unity**
+<p align="center">  👾 I’m currently learning and working on <strong> Unreal Engine 5 and advanced Unity </strong> </p>
 
-- ✨ I'm also interested in **cyber security, simulation development, AI, ML, assembly, mobile development, metaverse, and ITOps**
+<p align="center"> ✨ I'm also interested in <strong>  simulation development and cyber security, but I'm interested in all aspects of Computer Science </strong>  </p>
 
-- 📧 How to reach me **ercealtn@gmail.com**
+<p align="center"> 📧 How to reach me -> <strong> ercealtn@gmail.com </strong>  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/erce-altun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erce-altun" height="30" width="40" /></a>
+<br> <br>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center> <a href="https://linkedin.com/in/erce-altun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erce-altun" height="30" width="40" /></a>
 <a href="https://instagram.com/ercealtun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ercealtun" height="30" width="40" /></a>
 </p>
 
