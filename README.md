@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/JOrBpgP5CkzU4/giphy.gif" alt="animated" />
+<img src="https://media.giphy.com/media/JOrBpgP5CkzU4/giphy.gif" width="70%" alt="animated" />
 </p>
 
 <h1 align="center">Hi, I'm Erce 👋</h1>
