@@ -8,6 +8,8 @@
 
 <p align="center"> 💻 I’m a Senior Computer Engineering Student at <strong> Çankaya University </strong> </p>
 
+<p align="center"> 👨‍💻 I have an experience on <strong> game development and database management </strong> . </strong>  </p>
+
 <p align="center">  👾 I’m currently learning and working on <strong> Unreal Engine 5 and advanced Unity </strong> </p>
 
 <p align="center"> ✨ I'm also interested in <strong>  simulation development and cyber security, but I'm interested in all aspects of Computer Science </strong>  </p>
