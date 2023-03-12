@@ -21,6 +21,6 @@
 
 <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercealtun&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&align=center)](https://github.com/ercealtun/github-readme-stats" />
 
-<img width="49%" align="right" src="https://github-readme-stats.vercel.app/api?username=ercealtun&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=ercealtun&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 
