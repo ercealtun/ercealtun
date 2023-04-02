@@ -1,6 +1,9 @@
 <p align="center">
-<img src="https://media.giphy.com/media/JOrBpgP5CkzU4/giphy.gif" width="70%" alt="animated" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZjZTk3YTE3ZmE1MjdjNzZhOWQ4ZjYwMmQ5OTVhYjAyYTAxODI0NSZjdD1n/jzHFPlw89eTqU/giphy.gif" width="70%" alt="animated" />
 </p>
+
+
+
 
 
 <h1 align="center">Hi, I'm Erce 👋</h1>
