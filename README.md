@@ -2,6 +2,7 @@
 <img src="https://media.giphy.com/media/JOrBpgP5CkzU4/giphy.gif" width="70%" alt="animated" />
 </p>
 
+
 <h1 align="center">Hi, I'm Erce 👋</h1>
 
 <h3 align="center">Fully-motivated & greedy for learning junior developer </h3>
