@@ -16,7 +16,7 @@
 
 <p align="center">  👾 I’m currently learning and working on <strong> Unreal Engine and Unity </strong> </p>
 
-<p align="center"> ✨ I'm also interested in <strong>  simulation development and cyber security, but I'm interested in all aspects of Computer Science </strong>  </p>
+<p align="center"> ✨ I'm also interested in <strong>  artifical intelligence, simulation development and cyber security, but I'm interested in all aspects of Computer Science </strong>  </p>
 
 <p align="center"> 📧 How to reach me -> <strong> ercealtn@gmail.com </strong>  </p>
 
