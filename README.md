@@ -14,7 +14,7 @@
 
 <p align="center"> 👨‍💻 I have an experience on <strong> game development and database management </strong> </p>
 
-<p align="center">  👾 I’m currently learning and working on <strong> Unreal Engine and Unity </strong> </p>
+<p align="center">  👾 I’m currently working on <strong> Unreal Engine and Unity </strong> </p>
 
 <p align="center"> ✨ I'm also interested in <strong>  artifical intelligence and cyber security, but I'm interested in all aspects of Computer Science </strong>  </p>
 
