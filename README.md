@@ -8,9 +8,7 @@
 
 <h1 align="center">Hi, I'm Erce 👋</h1>
 
-<h3 align="center">Fully-motivated & greedy for learning junior developer </h3>
-
-<p align="center"> 💻 I’m a Senior Computer Engineering Student at <strong> Çankaya University </strong> </p>
+<h3 align="center">Fully-motivated & greedy junior developer </h3>
 
 <p align="center"> 👨‍💻 I have an experience on <strong> game development and database management </strong> </p>
 
