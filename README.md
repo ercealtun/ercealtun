@@ -10,9 +10,9 @@
 
 <p align="center">  👾 I’m currently working on <strong> RTOS </strong> </p>
 
-<p align="center"> 👨‍💻 I have an experience on <strong> game development and database management </strong> </p>
+<p align="center"> 👨‍💻 I've done internships on <strong> game development and database management </strong> </p>
 
-<p align="center"> ✨ I'm interested in <strong> simulation development and embedded systems, but I'm interested in all aspects of Computer Science </strong>  </p>
+<p align="center"> ✨ I'm interested in <strong> simulation development and embedded systems, but I'm interested in all aspects of Computer Science :) </strong>  </p>
 
 <p align="center"> 📧 Contact with me -> <strong> ercealtn@gmail.com </strong>  </p>
 
