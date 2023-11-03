@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi, I'm Erce 👋</h1>
 
-<p align="center">  👾 I’m currently working on <strong> RTOS </strong> </p>
+<p align="center">  👾 I’m currently working on <strong> RTOS & Embedded Systems </strong> </p>
 
 <p align="center"> 👨‍💻 I've done internships on <strong> game development and database management </strong> </p>
 
