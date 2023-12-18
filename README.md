@@ -6,13 +6,11 @@
 
 
 
-<h1 align="center">Hi, I'm Erce 👋</h1>
+<h1 align="center">Sup, I'm Erce </h1>
 
 <p align="center">  👾 I’m currently working on <strong> RTOS & Embedded Systems </strong> </p>
 
-<p align="center"> 👨‍💻 I've done internships on <strong> game development and database management </strong> </p>
-
-<p align="center"> ✨ I'm interested in <strong> simulation development and embedded systems, but I'm interested in all aspects of Computer Science :) </strong>  </p>
+<p align="center"> ✨ I'm interested in <strong> simulation development and embedded systems, however I'm interested in all sides of Computer Science :) </strong>  </p>
 
 <p align="center"> 📧 Contact with me -> <strong> ercealtn@gmail.com </strong>  </p>
 
