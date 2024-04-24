@@ -10,7 +10,7 @@
 
 <p align="center">  👾 I’m currently working on <strong> RTOS & Embedded Systems </strong> </p>
 
-<p align="center"> ✨ I'm interested in <strong> embedded systems and simulation development </strong>, however I'm interested in all sides of Computer Science :) </p>
+<p align="center"> ✨ I'm interested in <strong> embedded and operating system development </strong>, however I'm interested in all sides of Computer Science :) </p>
 
 <p align="center"> 📧 Contact with me -> <strong> ercealtn@gmail.com </strong>  </p>
 
