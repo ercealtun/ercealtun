@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center">Sup, I'm Erce </h1>
+<h1 align="center">I'm Erce </h1>
 
 <p align="center">  👾 I’m currently working on <strong> RTOS & Embedded Systems </strong> </p>
 
