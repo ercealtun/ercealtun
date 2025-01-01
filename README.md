@@ -8,9 +8,9 @@
 
 <h1 align="center">I'm Erce </h1>
 
-<p align="center">  👾 I’m currently working on <strong> RTOS & Embedded Systems </strong> </p>
+<p align="center">  👾 I’m currently working on <strong> Simulations & Embedded Systems </strong> </p>
 
-<p align="center"> ✨ I'm interested in <strong> embedded and operating system development </strong>, however I'm interested in all sides of Computer Science :) </p>
+<p align="center"> ✨ I'm interested in <strong> simulation & embedded development </strong>, however I'm interested in all sides of Computer Science :) </p>
 
 <p align="center"> 📧 Contact with me -> <strong> ercealtn@gmail.com </strong>  </p>
 
